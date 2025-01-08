@@ -50,6 +50,9 @@ Once you run the app, you will see an interactive interface like this:
 - Deploy the app online (e.g., Streamlit Cloud, Heroku).
 
 
+## 🌐Website Preview
+![image](https://github.com/user-attachments/assets/4ccd2adc-263f-40d8-afc7-191594588c0d)
+
 
 Thank you for using the **Iris Flower Prediction App**! 🌷✨
 
